@@ -1,6 +1,6 @@
 # renovate-config
 
-Shareable config presets for akashic-games.
+Shareable config presets for ShinobuTakahashi.
 
 ## usage
 
@@ -11,7 +11,7 @@ Shareable config presets for akashic-games.
 
 ```json
 {
-  "extends": ["github>akashic-games/renovate-config"]
+  "extends": ["github>ShinobuTakahashi/renovate-config"]
 }
 ```
 
@@ -21,7 +21,7 @@ Shareable config presets for akashic-games.
 
 ```json
 {
-  "extends": ["github>akashic-games/renovate-config:groupPatchMinor"]
+  "extends": ["github>ShinobuTakahashi/renovate-config:groupPatchMinor"]
 }
 ```
 
@@ -31,7 +31,7 @@ Shareable config presets for akashic-games.
 
 ```json
 {
-  "extends": ["github>akashic-games/renovate-config:bumpAkashicPatch"]
+  "extends": ["github>ShinobuTakahashi/renovate-config:bumpAkashicPatch"]
 }
 ```
 
@@ -41,7 +41,7 @@ Shareable config presets for akashic-games.
 
 ```json
 {
-  "extends": ["github>akashic-games/renovate-config:groupAll"]
+  "extends": ["github>ShinobuTakahashi/renovate-config:groupAll"]
 }
 ```
 
@@ -63,7 +63,7 @@ Shareable config presets for akashic-games.
 
 ```json
 {
-  "extends": ["github>akashic-games/renovate-config//engineFilesAlias/update"]
+  "extends": ["github>ShinobuTakahashi/renovate-config//engineFilesAlias/update"]
 }
 ```
 
@@ -73,7 +73,7 @@ Shareable config presets for akashic-games.
 
 ```json
 {
-  "extends": ["github>akashic-games/renovate-config//engineFilesAlias/automerge"]
+  "extends": ["github>ShinobuTakahashi/renovate-config//engineFilesAlias/automerge"]
 }
 ```
 
@@ -83,7 +83,7 @@ Shareable config presets for akashic-games.
 
 ```json
 {
-  "extends": ["github>akashic-games/renovate-config//engineFilesAlias/bump"]
+  "extends": ["github>ShinobuTakahashi/renovate-config//engineFilesAlias/bump"]
 }
 ```
 
@@ -96,6 +96,6 @@ Shareable config presets for akashic-games.
 
 ```json
 {
-  "extends": ["github>akashic-games/renovate-config//engineFilesAlias/default"]
+  "extends": ["github>ShinobuTakahashi/renovate-config//engineFilesAlias/default"]
 }
 ```
